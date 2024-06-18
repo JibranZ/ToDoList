@@ -20,4 +20,4 @@ Frontend: Developed using HTML, CSS for styling, and JavaScript for dynamic func
 
 Storage: Utilizes localStorage to store task data locally, allowing users to access and manage tasks across sessions without losing data.
 
-To Try this app you can go to the link provided -> (To-Do List)[https://jibran-to-do-list.netlify.app/]
+To Try this app you can go to the link provided -> [To-Do List](https://jibran-to-do-list.netlify.app/)
